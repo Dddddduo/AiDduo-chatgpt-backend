@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: spring-ai-alibaba-chat
+  ai:
+    dashscope:
+      api-key: sk-2a4d74859a8e4eadb533b72eadbada73
